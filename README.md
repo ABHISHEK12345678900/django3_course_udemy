@@ -1,2 +1,16 @@
 # django3_course_udemy
 Udemy course on Django3
+
+1) To Start the project use the below cmd:
+	django-admin startproject projectname
+	
+2) cd mysite
+
+3) To start the server use the below command:
+	python manage.py runserver
+	
+4) To start an app:
+	- come to the folder where ur manage.py exists and use the below cmd:
+	python3 manage.py startapp appname
+	
+	
