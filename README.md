@@ -13,4 +13,8 @@ Udemy course on Django3
 	- come to the folder where ur manage.py exists and use the below cmd:
 	python3 manage.py startapp appname
 	
-	
+5) cmd : python3 manage.py makemigrations
+
+6) cmd : python3 manage.py showmigrations
+
+7) cmd : python3 manage.py migrate
