@@ -1,5 +1,5 @@
 # django3_course_udemy
-Udemy course on Django3
+Udemy course on Django3( https://www.udemy.com/course/django-3-python-web-framework-for-beginners/ )
 
 1) To Start the project use the below cmd:
 	django-admin startproject projectname
